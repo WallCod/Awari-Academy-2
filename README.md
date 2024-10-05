@@ -1,6 +1,7 @@
 # Hello, Peoples !  🚀
 
 Bem-vindo ao meu reposítorio do Curso de Back-End da Awari !
+
 Aqui vamos mergulhar no universo dos servidores, bancos de dados e APIs, aprendendo a criar a engrenagem que faz a web funcionar.
 
 ![logo codifique](./back-end.jpg)
