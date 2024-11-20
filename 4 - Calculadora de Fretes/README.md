@@ -6,7 +6,7 @@
 
 <a href=""> Clique aqui</a> para acessar o Repositório.
 
-![logo Calculadora de Frete](./Calculadora.jpeg)
+![logo Calculadora de Frete](Calculadora.jpeg)
 
 
 ---
