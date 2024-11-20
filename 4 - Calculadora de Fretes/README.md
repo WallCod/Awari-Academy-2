@@ -2,9 +2,9 @@
 
 ## Desenvolvendo uma Calculadora de Frete Simples. 🔢🚚
 
-<a href=""> Clique aqui</a> para acessar a Calculadora.
+<a href="https://wallcod.github.io/Calculadora-de-Frete/"> Clique aqui</a> para acessar a Calculadora.
 
-<a href=""> Clique aqui</a> para acessar o Repositório.
+<a href="https://github.com/WallCod/Calculadora-de-Frete"> Clique aqui</a> para acessar o Repositório.
 
 ![logo Calculadora de Frete](Calculadora.jpeg)
 
