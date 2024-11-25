@@ -12,7 +12,7 @@ Este diretório contém duas implementações diferentes para consultar informa�
 
 Esta implementação utiliza o módulo https do Node.js, para fazer uma requisição direta à API de CEP. É uma abordagem simples e direta, ideal para scripts pequenos ou aplicações onde a simplicidade é prioritária.
 
-##### Características
+#### Características
 
 <strong> Simplicidade:</strong> Não requer bibliotecas externas, além do módulo https.
 
