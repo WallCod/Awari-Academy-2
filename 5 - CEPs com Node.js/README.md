@@ -8,37 +8,37 @@ Este diretório contém duas implementações diferentes para consultar informa�
 
 ---
 
-####  Consulta de CEP com https
+###  Consulta de CEP com https
 
 Esta implementação utiliza o módulo https do Node.js, para fazer uma requisição direta à API de CEP. É uma abordagem simples e direta, ideal para scripts pequenos ou aplicações onde a simplicidade é prioritária.
 
 #### Características
 
-<strong> Simplicidade:</strong> Não requer bibliotecas externas, além do módulo https.
+ **Simplicidade:** Não requer bibliotecas externas, além do módulo https.
 
-<strong> Ideal para Scripts Rápidos: </strong> Útil para tarefas simples e onde a complexidade adicional não é necessária.
+**Ideal para Scripts Rápidos:** Útil para tarefas simples e onde a complexidade adicional não é necessária.
 
-<strong> Direto ao Ponto: </strong> Faz a requisição e manipula a resposta em um único script.
+ **Direto ao Ponto:**  Faz a requisição e manipula a resposta em um único script.
 
 ---
 
-#### Consulta de CEP com Express e Axios
+### Consulta de CEP com Express e Axios
 
 Esta implementação utiliza o framework Express para configurar um servidor HTTP e a biblioteca Axios para simplificar as requisições HTTP. É uma abordagem mais robusta e escalável, ideal para aplicações web mais complexas.
 
-##### Características
+#### Características
 
-<strong> Estrutura Modular: </strong> Utiliza rotas e middleware, facilitando a adição de novas funcionalidades.
+ **Estrutura Modular:**  Utiliza rotas e middleware, facilitando a adição de novas funcionalidades.
 
-<strong> Uso de Axios: </strong> Simplifica as requisições HTTP e torna o código mais legível.
+ **Uso de Axios:** Simplifica as requisições HTTP e torna o código mais legível.
 
-<strong> Escalável e Mantível: </strong> Ideal para projetos que precisam crescer e serem mantidos a longo prazo.
+**Escalável e Mantível:** Ideal para projetos que precisam crescer e serem mantidos a longo prazo.
 
-<strong> Boas Práticas: </strong> Uso de variáveis de ambiente e tratamento adequado de erros.
+ **Boas Práticas:** Uso de variáveis de ambiente e tratamento adequado de erros.
 
 ---
 
-#### Conclusão
+### Conclusão
 
 A Implementação com HTTPS, serve para ser usada em scripts simples e diretos, que são simples e rápidos.
 
