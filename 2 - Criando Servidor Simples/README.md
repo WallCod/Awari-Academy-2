@@ -6,7 +6,7 @@ Aqui você encontrará alguns exercícios práticos de criação de servidores w
 
 Além disso, eles complementam meus estudos no curso de Engenharia da Computação na Unifatecie, permitindo uma aplicação prática dos conhecimentos adquiridos.
 
-Acompanhe o repositório para ver o progresso e atualizações! Vamos codar e aprender juntos! 🚀🚀
+Acompanhe o repositório para ver o progresso e atualizações! 🚀🚀
 
 ---
 
