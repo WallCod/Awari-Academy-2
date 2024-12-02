@@ -22,6 +22,7 @@ O código assíncrono permite que múltiplas operações sejam iniciadas simulta
 
 **Benefícios do Async:**
 
+
 **Eficiência:** Melhora o desempenho ao não bloquear a execução do programa esperando uma tarefa terminar.
 
 **Multitarefa:** Permite executar várias tarefas ao mesmo tempo, o que é crucial para aplicações modernas que lidam com operações de rede, acesso a banco de dados, entre outras. 
