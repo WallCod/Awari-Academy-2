@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "nome": "Playstation 5",
+  "preco": 1000,
+  "em_estoque": true,
+  "cores_disponiveis": [
+    "preto",
+    "cinza",
+    "branco"
+  ]
+}

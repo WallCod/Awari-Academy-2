@@ -1,0 +1,14 @@
+{
+  "nome": "Wallax Figueiredo",
+  "idade": 32,
+  "email": "wallaxrpg@live.com",
+  "endereco": {
+    "rua": "Santo Antonio",
+    "cidade": "Salvador",
+    "estado": "Bahia",
+    "cep": "45606-000"
+  },
+  "telefone": [
+    "(71)-99999-9999"
+  ]
+}

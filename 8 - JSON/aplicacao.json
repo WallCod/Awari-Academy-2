@@ -1,0 +1,9 @@
+{
+  "app": "WallBet",
+  "versao": 1,
+  "configuracoes": {
+    "tema": "escuro",
+    "notificacoes": true,
+    "idioma": "pt-BR"
+  }
+}

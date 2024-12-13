@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "descricao": "Comprar leite",
+    "completado": false
+  },
+  {
+    "id": 2,
+    "descricao": "Enviar relatório",
+    "completado": true
+  },
+  {
+    "id": 2,
+    "descricao": "Marcar consulta médica",
+    "completado": false
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "8---json",
+  "version": "1.0.0",
+  "main": "ex.js",
+  "scripts": {
+    "dev": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wallax Figueiredo",
+  "license": "ISC",
+  "description": ""
+}
