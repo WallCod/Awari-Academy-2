@@ -6,4 +6,4 @@ Este projeto demonstra como formatar a hora atual utilizando a biblioteca `date-
 
 ## Propósito
 
-O objetivo é exemplificar o uso da biblioteca `date-format` para formatar datas e horas em projetos Node.js.
+O objetivo é exemplificar o uso da biblioteca `date-format`, para formatar datas e horas em projetos Node.js.
