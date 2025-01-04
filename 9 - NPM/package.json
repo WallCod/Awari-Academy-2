@@ -2,8 +2,10 @@
   "name": "9---npm",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node .",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -11,5 +13,12 @@
   "description": "",
   "dependencies": {
     "axios": "^1.7.9"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-mock-axios": "^4.8.0"
   }
 }

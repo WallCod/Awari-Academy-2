@@ -1,8 +1,8 @@
 {
-  "name": "2---segundo-exemplo",
+  "name": "servidor-http-com-express-com-parametro-de-consulta",
   "version": "0.0.1",
   "description": "Primeiro projeto utilizando Node.js",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon .",
     "prod": "node .",
