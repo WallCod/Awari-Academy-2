@@ -9,7 +9,6 @@ Aqui vamos mergulhar no universo dos servidores, bancos de dados e APIs, aprende
 
 ## Sobre o Curso 🧑‍🏫
 
-
 - Fundamentos do Back-End
 - Bancos de Dados
 - APIs
